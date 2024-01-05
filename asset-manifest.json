@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udprogrammer/react_project-.git/static/css/main.9829a107.css",
+    "main.js": "/udprogrammer/react_project-.git/static/js/main.c54ee338.js",
+    "static/js/787.d63ef48f.chunk.js": "/udprogrammer/react_project-.git/static/js/787.d63ef48f.chunk.js",
+    "index.html": "/udprogrammer/react_project-.git/index.html",
+    "main.9829a107.css.map": "/udprogrammer/react_project-.git/static/css/main.9829a107.css.map",
+    "main.c54ee338.js.map": "/udprogrammer/react_project-.git/static/js/main.c54ee338.js.map",
+    "787.d63ef48f.chunk.js.map": "/udprogrammer/react_project-.git/static/js/787.d63ef48f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9829a107.css",
+    "static/js/main.c54ee338.js"
+  ]
+}
